@@ -1,8 +1,3 @@
-# Estudando comandos de git e do terminal unix
-
-# Configurações inicias do Git e R
-
-```
 install.packages('usethis')
 library(usesthis)
 
@@ -14,6 +9,3 @@ usethis::create_github_token()
 gitcreds::gitcreds_set()
 
 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 # token_casa
-
-```
-
